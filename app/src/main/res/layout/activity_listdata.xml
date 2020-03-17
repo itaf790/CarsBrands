@@ -13,10 +13,10 @@
     android:layout_height="wrap_content"
     android:id="@+id/listdata"
     android:layout_centerHorizontal="true"
-    android:layout_marginTop="105dp"
     android:text="Car Names"
     android:textColor="#000"
     android:textSize="30dp"
+    android:layout_below="@id/imageView"
     />
 
 <ImageView
@@ -24,9 +24,8 @@
     android:layout_height="212dp"
     android:id="@+id/imageView"
     android:src="@drawable/mercedes"
+    android:layout_marginTop="40dp"
     android:layout_centerHorizontal="true"
-    android:layout_below="@id/listdata"
-
 
     />
 
