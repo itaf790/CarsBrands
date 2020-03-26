@@ -37,6 +37,9 @@
         <item>{"name":"\"Honda\"","year":"2020","color":"Silver",
             "milage":"25000","price":$155000"}</item>
 
+        <item>{"name":"\"Chevrolet\"","year":"2020","color":"Silver",
+            "milage":"25000","price":$155000"}</item>
+
 
 
     </string-array>
