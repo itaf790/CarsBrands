@@ -2,7 +2,7 @@
 <resources>
 
     <string-array name="car_array">
-<item>{"name":"\"Mercedes Benz Tesla\"","year":"2012","color":"Silver",
+<item>{"name":"\"Mercedes Benz\"","year":"2012","color":"Silver",
             "milage":"25000","price":$145000"}</item>
 
 
