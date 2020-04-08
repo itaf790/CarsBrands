@@ -2,40 +2,43 @@
 <resources>
 
     <string-array name="car_array">
-<item>{"name":"\"Mercedes Benz Tesla\"","year":"2020","color":"Silver",
+<item>{"name":"\"Mercedes Benz Tesla\"","year":"2012","color":"Silver",
+            "milage":"25000","price":$145000"}</item>
+
+
+        <item>{"name":"\"Ferrari\"","year":"2013","color":"Black",
+            "milage":"25000","price":$157000"}</item>
+
+
+        <item>{"name":"\"Audi\"","year":"2014","color":"Red",
+            "milage":"25000","price":$176000"}</item>
+
+
+        <item>{"name":"\"Lamborghini\"","year":"2015","color":"Yellow",
+            "milage":"25000","price":$198000"}</item>
+
+
+        <item>{"name":"\"Ford\"","year":"2016","color":"Green",
             "milage":"25000","price":$155000"}</item>
 
 
-        <item>{"name":"\"Ferrari\"","year":"2020","color":"Silver",
-            "milage":"25000","price":$155000"}</item>
+        <item>{"name":"\"Volkswagen\"","year":"2017","color":"Pink",
+            "milage":"25000","price":$13400"}</item>
 
 
-        <item>{"name":"\"Audi\"","year":"2020","color":"Silver",
-            "milage":"25000","price":$155000"}</item>
+        <item>{"name":"\"BMW\"","year":"2018","color":"Blue",
+            "milage":"25000","price":$109000"}</item>
 
 
-        <item>{"name":"\"Lamborghini\"","year":"2020","color":"Silver",
-            "milage":"25000","price":$155000"}</item>
+        <item>{"name":"\"Jeep\"","year":"2019","color":"White",
+            "milage":"25000","price":$112000"}</item>
 
 
-        <item>{"name":"\"Ford\"","year":"2020","color":"Silver",
-            "milage":"25000","price":$155000"}</item>
+        <item>{"name":"\"Honda\"","year":"2020","color":"Brown",
+            "milage":"25000","price":$123000"}</item>
 
-
-        <item>{"name":"\"Volkswagen\"","year":"2020","color":"Silver",
-            "milage":"25000","price":$155000"}</item>
-
-
-        <item>{"name":"\"BMW\"","year":"2020","color":"Silver",
-            "milage":"25000","price":$155000"}</item>
-
-
-        <item>{"name":"\"Jeep\"","year":"2020","color":"Silver",
-            "milage":"25000","price":$155000"}</item>
-
-
-        <item>{"name":"\"Honda\"","year":"2020","color":"Silver",
-            "milage":"25000","price":$155000"}</item>
+        <item>{"name":"\"Chevrolet\"","year":"2021","color":"Gray",
+            "milage":"25000","price":$153000"}</item>
 
 
 
